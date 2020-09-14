@@ -1,0 +1,104 @@
+.App {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.chat-app {
+  background: lightblue;
+  width: 40%;
+  border-radius: 2%;
+  padding: 6px;
+  display: block;
+  margin: auto;
+  margin-top: 23px;
+}
+.render-chat {
+
+  background-color: red;
+
+}
+.messsage-box{
+    width: 63%;
+    margin: auto;
+    margin-top: 16px;
+    margin-bottom: 20px;
+}
+.render-video video{
+  border-radius: 6%;
+}
+.button-container{
+  margin-bottom: 6px;
+}
+.header-section .MuiButton-containedPrimary {
+  color: #fff;
+  background-color: #3f51b5;
+  margin-bottom: 14px;
+  margin-top: 12px;
+  margin-left: 16px;
+}
+.MuiOutlinedInput-root {
+  position: relative;
+  border-radius: 4px;
+  /* background: red; */
+  height: 139px;
+  width: 244px;
+}
+
+.file{
+  display: flex;
+  justify-content: space-around;
+  margin: 10px;
+}
+
+.name-field{
+  padding-bottom: 10px;
+}
+
+.notification{
+  background-color: #F9F9F9;
+  padding: 0;
+}
+.login-wrapper{
+  /* width: 30%; */
+  padding: 1.5rem;
+
+}
+.login_container{
+  display: flex;
+  justify-content: space-around;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
