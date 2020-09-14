@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a179674.chunk.css",
+    "main.js": "/static/js/main.e521a9d1.chunk.js",
+    "main.js.map": "/static/js/main.e521a9d1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
+    "static/js/2.43a4eb56.chunk.js": "/static/js/2.43a4eb56.chunk.js",
+    "static/js/2.43a4eb56.chunk.js.map": "/static/js/2.43a4eb56.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ca00723eea7b1cf4015c3a6951531729.js": "/precache-manifest.ca00723eea7b1cf4015c3a6951531729.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5a179674.chunk.css.map": "/static/css/main.5a179674.chunk.css.map",
+    "static/js/2.43a4eb56.chunk.js.LICENSE.txt": "/static/js/2.43a4eb56.chunk.js.LICENSE.txt",
+    "static/media/hey-yall.jpg": "/static/media/hey-yall.d0c57f41.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/js/2.43a4eb56.chunk.js",
+    "static/css/main.5a179674.chunk.css",
+    "static/js/main.e521a9d1.chunk.js"
+  ]
+}
